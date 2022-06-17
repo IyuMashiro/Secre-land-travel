@@ -1,2 +1,2 @@
 # Secre-land-travel
-来自狐箱社的秘密
+A new game project
